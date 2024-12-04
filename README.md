@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm **Bryan Florentino Leo**.<br>
-🌱 I am a third-year Statistics student in Universitas Gadjah Mada who is currently also a Machine Learning Cohort in Bangkit Academy 2024 Batch 1.<br>
+🌱 I am a final-year Statistics student in Universitas Gadjah Mada. I was formerly a Machine Learning Cohort in Bangkit Academy 2024 Batch 1.<br>
 
 📫 If you are interested, kindly follow each other on GitHub or get connected to my [LinkedIn](https://www.linkedin.com/in/bryanflorentinoleo/).
 
